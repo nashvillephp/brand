@@ -34,7 +34,6 @@ Henrique. Give him a shout-out on [Twitter][twitter-ibaldo],
 [Instagram][instagram-hibaldo], or [Dribbble][dribbble-ibaldo], and thank him
 for his work.
 
-<br>
 [![CakeDC](logo-cakedc.png)][cakedc]
 
 
